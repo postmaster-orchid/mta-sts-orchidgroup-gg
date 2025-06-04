@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: 
+mx: orchidgroup-gg.y-v1.mx.microsoft
 max_age: 604800
